@@ -1,2 +1,2 @@
 # tfof
-![image](https://github.com/pengjiaqii/clock/blob/master/Clock/demo.jpg)
+![image](https://github.com/pengjiaqii/tfof/blob/master/flying.gif)
