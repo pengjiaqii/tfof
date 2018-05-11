@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/aaa.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/aaa.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/bbb.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ccc.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ddd.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/eee.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/fff.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ggg.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/hhh.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/iii.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/java/com/jade/surface/Bird.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/java/com/jade/surface/Floor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/java/com/jade/surface/GameStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/java/com/jade/surface/GameStatus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/java/com/jade/surface/Pillar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/java/com/jade/surface/Util.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/bg_floor_two.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/eight.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/five.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/four.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/game_bg.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/ic_bird.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/img_bottom_pipe.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/img_top_pipe.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/nine.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/one.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/seven.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/six.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/three.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/two.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/surface/src/main/res/mipmap-hdpi/zero.png" charset="GBK" />
+  </component>
+</project>
